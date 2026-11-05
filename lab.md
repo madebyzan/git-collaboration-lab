@@ -37,3 +37,4 @@
 - Milestone 37: Continuous pairing milestone with @octocat
 - Milestone 38: Continuous pairing milestone with @octocat
 - Milestone 39: Continuous pairing milestone with @octocat
+- Milestone 40: Continuous pairing milestone with @octocat
