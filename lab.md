@@ -24,3 +24,4 @@
 - Milestone 24: Continuous pairing milestone with @octocat
 - Milestone 25: Continuous pairing milestone with @octocat
 - Milestone 26: Continuous pairing milestone with @octocat
+- Milestone 27: Continuous pairing milestone with @octocat
