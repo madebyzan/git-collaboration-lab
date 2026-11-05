@@ -20,3 +20,4 @@
 - Milestone 20: Continuous pairing milestone with @octocat
 - Milestone 21: Continuous pairing milestone with @octocat
 - Milestone 22: Continuous pairing milestone with @octocat
+- Milestone 23: Continuous pairing milestone with @octocat
