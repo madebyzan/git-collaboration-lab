@@ -13,3 +13,4 @@
 - Milestone 13: Continuous pairing milestone with @octocat
 - Milestone 14: Continuous pairing milestone with @octocat
 - Milestone 15: Continuous pairing milestone with @octocat
+- Milestone 16: Continuous pairing milestone with @octocat
