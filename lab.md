@@ -5,3 +5,4 @@
 - Milestone 5: Continuous pairing milestone with @octocat
 - Milestone 6: Continuous pairing milestone with @octocat
 - Milestone 7: Continuous pairing milestone with @octocat
+- Milestone 8: Continuous pairing milestone with @octocat
