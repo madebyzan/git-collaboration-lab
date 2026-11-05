@@ -17,3 +17,4 @@
 - Milestone 17: Continuous pairing milestone with @octocat
 - Milestone 18: Continuous pairing milestone with @octocat
 - Milestone 19: Continuous pairing milestone with @octocat
+- Milestone 20: Continuous pairing milestone with @octocat
